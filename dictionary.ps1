@@ -1,3 +1,3 @@
 Set-Location $PSScriptRoot
 
-python.exe dictionary.py $args[0]
+python.exe Dictionary.py $args[0]
